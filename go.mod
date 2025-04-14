@@ -9,9 +9,9 @@ require (
 	github.com/thlib/go-timezone-local v0.0.0-20210907160436-ef149e42d28e
 	github.com/uadmin/rrd v0.0.0-20200219090641-e438da1b7640
 	github.com/xuri/excelize/v2 v2.7.0
-	golang.org/x/crypto v0.6.0
-	golang.org/x/mod v0.8.0
-	golang.org/x/net v0.7.0
+	golang.org/x/crypto v0.35.0
+	golang.org/x/mod v0.17.0
+	golang.org/x/net v0.21.0
 	gorm.io/driver/mysql v1.4.7
 	gorm.io/driver/postgres v1.4.8
 	gorm.io/driver/sqlite v1.4.4
@@ -31,6 +31,6 @@ require (
 	github.com/richardlehane/msoleps v1.0.3 // indirect
 	github.com/xuri/efp v0.0.0-20220603152613-6918739fd470 // indirect
 	github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22 // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 )
